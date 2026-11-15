@@ -1,1 +1,2 @@
-Prototype v0.1. Upload these files to a public GitHub repository root and enable Pages from the main branch / root. Open the published HTTPS URL in Safari, Share, Add to Home Screen. Offline cache requires a successful initial online load. Only Chapter 00 and Euclidean lab are implemented; remaining chapters are placeholders. Not tested on iPhone or M8. Local notes and progress can be backed up. No external dependencies.
+FRACTURE ENGINE v0.8 — Markov Engine
+Upload all five files to GitHub Pages root. Existing local storage retained. Markov Lab exports text grids, not binary M8 projects. Audio preview at 140 BPM. Hardware routing experiments require verification.
